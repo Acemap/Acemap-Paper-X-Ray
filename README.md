@@ -112,6 +112,6 @@ and you will get a score for this conference.
 
 
 
-**Reference: **
+**Reference: ** 
 
 **[1] Huang J B. Deep Paper Gestalt[J]. arXiv preprint arXiv:1812.08775, 2018.** 
