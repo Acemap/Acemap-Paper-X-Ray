@@ -42,7 +42,7 @@ You need to prepare the pdf files for some conference, and put these files in th
 
 ```input/raw/conference```: The received papers of that conference in recent years
 
-```input/raw/arxiv```: The rejected papers of that conference in recent years, like workshop papers. To get enough negative samples and to differentiate it from papers of other conferences, you can also put the 
+```input/raw/arxiv```: The rejected papers of that conference in recent years, like workshop papers. To get enough negative samples and to differentiate it from papers of other conferences, you can also put papers of other conferences and arxiv papers in this folder.
 
 ### environment
 
